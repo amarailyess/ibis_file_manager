@@ -1,0 +1,1 @@
+stm32g051_061_wlcsp20.ibs
